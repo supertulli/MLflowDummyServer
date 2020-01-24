@@ -1,0 +1,15 @@
+artifact_uri: file:///home/pedro/Documentos/work/Jupyter_Python/SuperTopicModeling/dummyMLflow/mlruns/1/73e1e8d08bbd4ae4b87c70bbdc616616/artifacts
+end_time: 1579185937410
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: active
+name: ''
+run_id: 73e1e8d08bbd4ae4b87c70bbdc616616
+run_uuid: 73e1e8d08bbd4ae4b87c70bbdc616616
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1579185932933
+status: 4
+tags: []
+user_id: pedro

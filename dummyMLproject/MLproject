@@ -1,0 +1,11 @@
+name: dummyMLproject
+
+conda_env: conda.yaml
+
+entry_points:
+  # dummy structure to generic MLproject
+  dummyexec:
+    parameters:
+      project_name: {type: string, default: "dummysmart"}
+    command: "python dummyexec.py project_name {project_name}"
+    
